@@ -1,6 +1,6 @@
 # Ormi_Bootstrap_Assignment
  - 부트스트랩 파일을 다운로드 받아 아래의 요구사항과 같이 변경하기
-***
+
 ### 요구사항
 ```
   1. logo를 바꿔주세요. -> font(google font에서 마음에 드시는 것 골라서 바꿔주세요.)로 logo를 수정합니다.
